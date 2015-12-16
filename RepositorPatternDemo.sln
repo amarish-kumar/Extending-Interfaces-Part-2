@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorPatternDemo", "RepositorPatternDemo\RepositorPatternDemo.csproj", "{290AF05A-2445-48D9-A4ED-A3B49CFF0653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{3ADE45D3-200F-4DA5-8FC1-F55340E32C04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{290AF05A-2445-48D9-A4ED-A3B49CFF0653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290AF05A-2445-48D9-A4ED-A3B49CFF0653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290AF05A-2445-48D9-A4ED-A3B49CFF0653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290AF05A-2445-48D9-A4ED-A3B49CFF0653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADE45D3-200F-4DA5-8FC1-F55340E32C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADE45D3-200F-4DA5-8FC1-F55340E32C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADE45D3-200F-4DA5-8FC1-F55340E32C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADE45D3-200F-4DA5-8FC1-F55340E32C04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
