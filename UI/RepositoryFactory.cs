@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using RepositorPatternDemo.Interfaces;
 using RepositorPatternDemo.Repositories;
-using RepositorPatternDemo.ViewModels;
 
 namespace UI
 {
